@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	Trang chu cua Admin
+	<h1>Trang chu cua Admin</h1>
 	<form action="/servlet/dang-xuat" method="post">
 		<button type="submit">Logout</button>
 	</form>
